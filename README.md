@@ -6,15 +6,13 @@ First actual website
 
 
 ```bash
-.
-└── recipes
-    ├── Breakfast
-    │   └── breakfast.html
-    ├── Burger
-    │   └── burger.html
-    ├── index.html
-    ├── Lasagna
-    │   ├── lasagna.html
-    │   └── lasagna.jpeg
-    └── README.md
-    ```
+
+├── Breakfast
+│   └── breakfast.html
+├── Burger
+│   └── burger.html
+├── index.html
+├── Lasagna
+│   ├── lasagna.html
+│   └── lasagna.jpeg
+└── README.md
