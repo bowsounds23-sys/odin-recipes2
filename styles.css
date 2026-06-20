@@ -1,9 +1,25 @@
-* {
-    background-color: red;
-    font-size: 32px;
+*  {
+    background-color: rgb(161, 47, 47);
+    font-size: 20px;
     text-align: center;
-    color: white;
+    color: black;
     font-weight: bold;
+   }
+
+  
+   div {
+    color: yellow;
+   }
+
+
+
+
+   .main { 
+    background-color: gray;
+    font-size: 25px;
+    text-align: left;
+    color: yellow;
+    font-weight:inherit
    }
 
    
